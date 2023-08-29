@@ -1,0 +1,19 @@
+## **4. Parcial 1**
+
+### Instrucciones
+El examen se compone de dos partes:
+- La primera corresponde a una parte de selección múltiple con 19 preguntas que se responderán en el salón de clase en 45 minutos. Esa primera parte tiene una calificación de 1 a 5.
+-La segunda parte corresponde a la parte práctica del examen y tiene también una calificación de 1 a 5.
+
+- La nota de este examen parcial corresponderá al promedio ponderado de las dos notas, donde la parte práctica tiene un peso de 40 % y la parte de selección múltiple de 60 %.
+- Usted tiene hasta el 30 de agosto a las 12:00 pm para enviar los archivos por correo, estos archivos deben tener su nombre.
+- Sólo se calificaran exámenes en formato pdf. Cualquier otro formato no será tenido en cuenta.
+- El examen debe estar acompañado de un notebook (ipynb)  que incluya todo los códigos de python que se emplean para obtener sus resultados.
+- El nombre del archivo debe tener su nombre. No se recibirán archivos en otro formato.
+- Esta parte del examen es para realizar en casa y debe reflejar el trabajo individual.
+
+### El Problema
+
+En días recientes trabajamos con una compañía de comestibles que estaba interesada en predecir el comportamiento de las ventas (en unidades) de sus dos productos estrella. Fuimos contratados para generar un modelo que permita pronosticar las ventas del siguiente mes de cada uno de esos dos productos. La base de datos disponible en el archivo Examen.csv tiene la información de cada uno de los productos desde enero de 2008.
+
+Su misión es encontrar el mejor modelo para pronosticar cada una de las series. Usted debe entregar un informe escrito de no más de cuatro páginas que presente los resultados al cliente y cuente el proceso para llegar a los pronósticos. Vea las instrucciones para asegurar que entrega los archivos requeridos
